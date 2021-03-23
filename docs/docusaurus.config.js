@@ -2,7 +2,7 @@ module.exports = {
   title: "Mentorship-Backend",
   tagline: "Documentation for Mentorship Backend",
   url: "https://shivsubh.github.io",
-  baseUrl: "/",
+  baseUrl: "/mentorship-backend/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.png",
   organizationName: "shivsubh",
